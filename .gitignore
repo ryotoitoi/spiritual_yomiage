@@ -8,7 +8,7 @@ wheels/
 
 # venv
 .venv
-/images/*
+/images/*.png
 *.mp3
 *.mp4
 *.srt
