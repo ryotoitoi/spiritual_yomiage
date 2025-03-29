@@ -1,0 +1,24 @@
+# python generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# venv
+.venv
+/images/*
+*.mp3
+*.mp4
+*.srt
+texts/*.txt
+wav/*
+query/*
+YouTubeサムネイル/*
+サムネ元ネタ/*
+inputs/*.txt
+.DS_Store
+縦型サムネイル/*
+*.png
+*.pptx
